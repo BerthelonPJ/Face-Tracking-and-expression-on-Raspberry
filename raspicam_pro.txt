@@ -1,0 +1,10 @@
+# Pour opencv
+CONFIG += link_pkgconfig
+PKGCONFIG += opencv
+
+# Pour raspicam
+INCLUDEPATH += -I/usr/local/include/
+LIBS += -L/opt/vc/lib/  -lraspicam -lraspicam_cv -lmmal -lmmal_core -lmmal_util
+
+# Pour SenseHat
+LIBS += -lRTIMULib

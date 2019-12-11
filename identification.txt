@@ -1,0 +1,4 @@
+Raspi numero:RASPI2LRS03
+Groupe:A
+Pierre-Jean Berthelon pierre_jean.berthelon@utt.fr
+Florian Bucheron floiran.bucheron@utt.fr
