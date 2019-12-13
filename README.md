@@ -2,7 +2,7 @@
 
 Project made by Pierre-Jean Berthelon & Florian Bucheron.
 
-Result and tutorial of this project can be found here : link to youtube video.
+Result and tutorial of this project can be found here : https://youtu.be/3uHDLBgpW8M
 
 This project uses Raspberry, OpenCV libraries and servo motors to detect and follow a face on a video. Once a face is detected, we track it. The program also includes a smile and eyes detection, which allows to draw a smiley on the Raspberry's SenseHat module.  
 
