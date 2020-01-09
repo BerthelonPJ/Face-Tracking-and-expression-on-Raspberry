@@ -11,7 +11,7 @@ Needed Hardware:
  - Raspberry model 3 (or other) 
  - SenseHat module
  - Raspicam
- - Arduino (Uno used in this project) with a 9V battery supply (the servos use too much power just for the usb)
+ - Arduino (Uno used in this project) with a 6V battery supply (the servos use too much power just for the usb)
  - Two Servo motors connected to the Arduino.
  
 # Arduino/Raspian/OpenCV install:
